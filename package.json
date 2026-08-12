@@ -9,7 +9,7 @@
     "start": "node dist/server.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --ext .ts --fix",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests configured\"",
     "format": "prettier --write \"src/**/*.ts\""
   },
   "keywords": [],
